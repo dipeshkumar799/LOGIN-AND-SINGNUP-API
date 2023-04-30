@@ -6,5 +6,5 @@
 - Javascript
 - MongoDB - Mongoose
 - Bcrypt
-  -mailtrap
-  -nodemailer
+-mailtrap
+-nodemailer
